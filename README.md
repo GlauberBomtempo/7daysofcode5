@@ -32,7 +32,7 @@ O projeto contempla as seguintes etapas:
 
 1. Clone o repositório:
 ```bash
-git clone [link-do-repositório]
+git clone [https://github.com/GlauberBomtempo/7daysofcode5/blob/main/7daysofcode5.ipynb]
 ```
 2. Instale as bibliotecas necessárias:
 
